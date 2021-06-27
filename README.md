@@ -6,7 +6,7 @@
 
 ### contact me
 
-[<img align="left" alt="vsenamnogoproshe | instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
+[<img align="left" alt="https://www.instagram.com/vsenamnogoproshe/" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
 
 <!--
 **aleksandr031091/aleksandr031091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
