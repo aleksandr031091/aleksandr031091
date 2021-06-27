@@ -4,7 +4,7 @@
 
 ### Studied and practice stack technologies ⬇
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialeksandr031091anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialeksandr031091=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **aleksandr031091/aleksandr031091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
