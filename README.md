@@ -1,4 +1,4 @@
-### <h1>Hi there I'm Sasha👋<h1/>
+### <h2>Hi there I'm Sasha👋<h2/>
 
 ### I am a junior FullStack developer
 
@@ -22,6 +22,8 @@
 <br />
 <datails>
 <sumary>:zap: Statistics:</sumary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=radical)
+
 </datails>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
