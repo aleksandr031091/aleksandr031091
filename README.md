@@ -22,7 +22,7 @@
 <br />
 <datails>
 <sumary>:zap: Statistics:</sumary>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=radical)
+<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=radical"/>
 
 </datails>
 
