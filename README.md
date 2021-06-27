@@ -8,6 +8,8 @@
 [<img align="left" alt="KasianAleksandr | facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Facebook_f_Logo_%28with_gradient%29.svg"/>][facebook]
 [<img align="left" alt="KasianAleksandr | instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
 
+<br />
+
 ### Studied and practice stack technologies ⬇
 
 <img align="left" alt="CSS3 | HTML5" src="https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg" width="42px"/>
@@ -22,9 +24,9 @@
 
 <h4>:zap: Statistics<h4/>
 
-<img align="left" border-radius="10px" width="400px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true"/>
+<img align="left" width="450px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true"/>
 
-<img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact"/>
+<img align="left" width="450px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact&hide_title=true"/>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
 [facebook]: https://www.facebook.com/profile.php?id=100015199141489
