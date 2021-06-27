@@ -22,10 +22,11 @@
 <br />
 
 <h4>:zap: Statistics:<h4/>
-<img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=onedark"/>
+<img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=synthwave"/>
+
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact&theme=synthwave"/>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
 [facebook]: https://www.facebook.com/profile.php?id=100015199141489
