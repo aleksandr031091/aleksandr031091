@@ -8,7 +8,10 @@
 
 [<img align="left" alt="https://www.instagram.com/vsenamnogoproshe/" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
 
+[instagram]: https://www.instagram.com/vsenamnogoproshe/
+
 <!--
+
 **aleksandr031091/aleksandr031091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -21,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
