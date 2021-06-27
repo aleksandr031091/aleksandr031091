@@ -21,7 +21,8 @@
 <br />
 
 <h4>:zap: Statistics<h4/>
-<img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true"/>
+
+<img align="left" border-radius="10px" width="400px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true"/>
 
 <img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact"/>
 
