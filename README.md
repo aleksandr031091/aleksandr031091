@@ -12,6 +12,8 @@
 <img align="left" alt="Redux" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="35px"/>
 <img align="left" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="30px"/>
 
+<br />
+
 ### contact me:
 
 [<img align="left" alt="KasianAleksandr | linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>][linkedin]
