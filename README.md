@@ -1,4 +1,4 @@
-### <h2>Hi there I'm Sasha👋<h2/>
+### <h1>Hi there I'm Sasha👋<h1/>
 
 ### I am a junior FullStack developer
 
@@ -20,11 +20,9 @@
 [<img align="left" alt="KasianAleksandr | instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
 
 <br />
-<datails>
-<sumary>:zap: Statistics:</sumary>
-<img align="left" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=radical"/>
 
-</datails>
+<h4>:zap: Statistics:<h4/>
+<img align="left" border-radius="10px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&theme=onedark"/>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
 [facebook]: https://www.facebook.com/profile.php?id=100015199141489
