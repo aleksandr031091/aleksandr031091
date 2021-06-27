@@ -4,9 +4,11 @@
 
 ### Studied and practice stack technologies ⬇
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/aleksandr031091=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/aleksandr031091=anuraghazra&show_icons=true&theme=radical)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialeksandr031091=anuraghazra&count_private=true)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/aleksandr031091=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apialeksandr031091=anuraghazra&count_private=true) -->
 
 <!--
 **aleksandr031091/aleksandr031091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
