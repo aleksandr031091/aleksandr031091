@@ -1,4 +1,4 @@
-### <h1>Hi there I'm Sasha<h1/>👋
+### <h1>Hi there I'm Sasha👋<h1/>
 
 ### I am a junior FullStack developer
 
@@ -11,13 +11,15 @@
 <img align="left" alt="Redux" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40px"/>
 <img align="left" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="30px"/>
 
-<br />
+<!-- <br /> -->
 
-### contact me:
+### contact me
 
 [<img align="left" alt="KasianAleksandr | linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>][linkedin]
 [<img align="left" alt="KasianAleksandr | facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Facebook_f_Logo_%28with_gradient%29.svg"/>][facebook]
 [<img align="left" alt="KasianAleksandr | instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
+
+<sumary>:zap: Statistics:</sumary>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
 [facebook]: https://www.facebook.com/profile.php?id=100015199141489
