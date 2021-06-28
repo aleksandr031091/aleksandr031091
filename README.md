@@ -1,7 +1,5 @@
 ### <h1>Hi there I'm Sasha👋<h1/>
 
-### I am a junior FullStack developer
-
 ### contact me
 
 [<img align="left" alt="KasianAleksandr | telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>][telegram]
