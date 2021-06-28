@@ -20,7 +20,7 @@
 <img align="left" alt="React" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="45px"/>
 <img align="left" alt="Redux" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40px"/>
 <img align="left" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="30px"/>
-<img align="left" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Foot_logo.svg" width="25px"/>
+<img align="left" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Foot_logo.svg" width="28px"/>
 
 <br />
 <br />
