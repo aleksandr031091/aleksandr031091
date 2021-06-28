@@ -24,9 +24,9 @@
 
 <h4>:zap: Statistics<h4/>
 
-<img align="left" width="420px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true&bg_color=0,06005edc,090270dc,08007edc,0d029edc"/>
+<img align="left" width="420px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true&bg_color=0,b6b7fc,9092f7,6b6df0,4345df,2427b6,101283,060866,010241"/>
 
-<img align="left" width="380px" heigth="140px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact&hide_title=true&bg_color=0,0d029edc,261bc0dc,6a5ffa,958ef7"/>
+<img align="left" width="380px" heigth="140px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact&hide_title=true&bg_color=0,010241,060866,101283,2427b6,4345df,6b6df0,9092f7,b6b7fc"/>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
 [facebook]: https://www.facebook.com/profile.php?id=100015199141489
