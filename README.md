@@ -26,7 +26,7 @@
 
 <img align="left" width="420px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=aleksandr031091&show_icons=true&hide_title=true&bg_color=0,ea238485,ff907765,00ff8463,ea837463,"/>
 
-<img align="left" width="380px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact&hide_title=true"/>
+<img align="left" width="400px" heigth="140px" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksandr031091&_langs_count-8&layout=compact&hide_title=true"/>
 
 [linkedin]: https://www.linkedin.com/in/aleksandr-kasian-0310/
 [facebook]: https://www.facebook.com/profile.php?id=100015199141489
