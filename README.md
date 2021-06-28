@@ -6,7 +6,7 @@
 
 [<img align="left" alt="KasianAleksandr | linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"/>][linkedin]
 [<img align="left" alt="KasianAleksandr | facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Facebook_f_Logo_%28with_gradient%29.svg"/>][facebook]
-[<img align="left" alt="KasianAleksandr | email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Better_GMAIL_Logo.svg"/>][email]
+[<img align="left" alt="KasianAleksandr | email" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Logo_Gmail.jpg"/>][email]
 [<img align="left" alt="KasianAleksandr | instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png"/>][instagram]
 
 <br />
