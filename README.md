@@ -19,7 +19,9 @@
 <img align="left" alt="Redux" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" width="40px"/>
 <img align="left" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="30px"/>
 <img align="left" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Foot_logo.svg" width="33px"/>
-<img align="left" alt="Node" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="40px"/>
+<img align="left" alt="Node" src="https://codedream.me/wp-content/uploads/2016/03/node.png" width="40px"/>
+<img align="left" alt="mongoDB" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="33px"/>
+<img align="left" alt="firebase" src="https://upload.wikimedia.org/wikipedia/commons/3/37/Firebase_Logo.svg" width="33px"/>
 
 <br />
 <br />
