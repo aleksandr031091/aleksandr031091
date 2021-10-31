@@ -20,8 +20,8 @@
 <img align="left" alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Visual_Studio_Code_1.18_icon.svg" width="30px"/>
 <img align="left" alt="Terminal" src="https://upload.wikimedia.org/wikipedia/commons/4/4d/Foot_logo.svg" width="33px"/>
 <img align="left" alt="Node" src="https://codedream.me/wp-content/uploads/2016/03/node.png" width="33px"/>
-<img align="left" alt="mongoDB" src="https://memo8.com/home/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg/" width="35px"/>
-<img align="left" alt="firebase" src="https://iconape.com/wp-content/files/gc/93002/png/react-native-firebase-1.png" width="40px" />
+<img align="left" alt="mongoDB" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" width="35px"/>
+<img align="left" alt="firebase" src="https://iconape.com/wp-content/files/gc/93002/png/react-native-firebase-1.png" width="33px" />
 
 <br />
 <br />
