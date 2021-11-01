@@ -22,6 +22,7 @@
 <img align="left" alt="Node" src="https://codedream.me/wp-content/uploads/2016/03/node.png" width="33px"/>
 <img align="left" alt="mongoDB" src="https://upload.wikimedia.org/wikipedia/commons/3/32/Mongo-db-logo.png" width="75px" />
 <img align="left" alt="firebase" src="https://iconape.com/wp-content/files/gc/93002/png/react-native-firebase-1.png" width="30px" />
+<img align="left" alt="rx" src="https://user-images.githubusercontent.com/10064416/53419310-eb4eb080-39d9-11e9-92f0-f402f33fe4fd.jpg" width="33px" />
 
 <br />
 <br />
